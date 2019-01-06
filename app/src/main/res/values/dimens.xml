@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">200dp</dimen>
+    
+    <dimen name="activity_padding">16dp</dimen>
+
+    <dimen name="default_margin">8dp</dimen>
+    
+    <dimen name="importance_tv_width">36dp</dimen>
+    <dimen name="importance_tv_height">36dp</dimen>
+</resources>

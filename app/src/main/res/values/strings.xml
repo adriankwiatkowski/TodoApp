@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="todo_notification_channel_name">Todo notifications</string>
+    <string name="insert_successful">Todo added</string>
+    <string name="update_successful">Todo updated.</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="todo_hint">todo</string>
+    <string name="importance_high">high</string>
+    <string name="importance_medium">medium</string>
+    <string name="importance_low">low</string>
+    <string name="date_error">Date must be greater than now.</string>
+    <string name="todo_error">Todo cannot be empty.</string>
+    <string name="delete_dialog_msg">Delete this todo?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="importance_tooltip">Importance</string>
+    <string name="date_tooltip">Pick date</string>
+    <string name="todos">Todos</string>
+    <string name="update_todo_title">Update Todo</string>
+    <string name="new_todo_title">Add New Todo</string>
+</resources>
